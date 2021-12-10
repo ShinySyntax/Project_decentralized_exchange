@@ -7,4 +7,4 @@ https://github.com/OpenZeppelin/openzeppelin-contracts
 remember to download truffle too.
 https://github.com/trufflesuite/truffle
 
-I recommend to run program on VScode.
+I recommend to run a code on VScode.
